@@ -1,0 +1,9 @@
+ADD_SONG s1 a1 2
+ADD_USER abhinav
+ADD_USER gnana
+INSERT_SONG abhinav s1
+INSERT_SONG gnana s1
+LIKE_SONG gnana s1
+UNLIKE_SONG gnana s1
+LIKE_SONG gnana s1
+EXIT
